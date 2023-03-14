@@ -39,7 +39,7 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Backend Development and swift.
+- :seedling: Exploring Frontend Development and swift.
 
 - :zap: In my free time, I solve problems with js algorithms.
 ---
