@@ -43,6 +43,10 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :zap: In my free time, I solve problems with js algorithms.
 ---
+ ## 🏆 GitHub Trophies
+  <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
+    <img src="https://github-profile-trophy.vercel.app/?username=dprof-in-tech&theme=nord&no-frame=false&no-bg=true&margin-w=4" style="width: 100%;" alt="Trophies">
+</div>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
