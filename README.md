@@ -12,19 +12,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=ffff&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Tope+Akintola;Developer+from+Nigeria;I+build+products+fast;and+ship+often)
+
+<br>
+
+<a href="https://www.thegitcity.com/dev/akintola4">
+<img src="https://www.thegitcity.com/dev/akintola4/opengraph-image" width="600" alt="Samuel Rizzon - Git City"/>
+  
+</a>
+
+<br>
+
 </div>
 
-<div id="badges" align="center">
+<!-- <div id="header" align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
+</div> -->
+
+<!-- <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/tope-akintola-b47b381b9/L">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/photofola">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div>
+</div> -->
 <div  align="center">
   <img src="https://komarev.com/ghpvc/?username=akintola4&style=flat-square&color=blue" alt=""/>
 </div>
@@ -32,7 +46,6 @@ Here are some ideas to get you started:
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
---- 
 
 ### :man_technologist: About Me :
 I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria 🇳🇬 .
@@ -43,10 +56,6 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :zap: In my free time, I solve problems with js algorithms.
 ---
- ## 🏆 GitHub Trophies
-  <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=akintola4&theme=nord&no-frame=false&no-bg=true&margin-w=4" style="width: 100%;" alt="Trophies">
-</div>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -60,9 +69,8 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - ⚡ GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=akintola4&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-<picture>
+<!-- <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=akintola4&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
@@ -75,4 +83,4 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 </picture>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akintola4&layout=compact)](https://github.com/akintola4)
-
+ -->
